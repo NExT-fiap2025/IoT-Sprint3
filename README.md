@@ -7,6 +7,10 @@
 - Pedro Henrique Salvitti - 88166
 - Enzo de Oliveira Cunha - 550985
 
+## ▶️ Video Explicativo
+
+-   [Video explicativo ](http:https://youtu.be/HIhobj-lhcg)
+
 ## 📌 Objetivo
 
 Este projeto implementa um **sistema de reconhecimento facial**
