@@ -9,7 +9,7 @@
 
 ## ▶️ Video Explicativo
 
--   [Video explicativo ](http:https://youtu.be/HIhobj-lhcg)
+-   [Video explicativo ](https://youtu.be/HIhobj-lhcg)
 
 ## 📌 Objetivo
 
